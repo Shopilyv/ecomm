@@ -286,49 +286,7 @@
             </style>
             <div class="container" style="margin-top: 100px">
 
-                <!-- <div class="schedule-bottom">
-                   <div class="row"
-                         style="padding: 1% 1% 1% 1%; background: url('discount.jpg'); background-blend-mode: multiply; background-size: contain;">
-
-
-                        <div class="col-lg-3" style="margin-left: 10%"></div>
-                        <div class="col-lg-6"
-                             style="text-align:center; padding: 1% 3% 3% 4%; background: url('discount.jpg') rgba(136, 14, 79, 0.8); background-blend-mode: multiply; background-size: contain; color: whitesmoke;">
-
-
-                            <div class="page-header">
-
-                                <h1 class="animated tada infinite" style="font-weight: bold; font-size: 300%;">
-                                    <i class="glyphicon glyphicon-gift"></i>
-                                    FREE DELIVERY!!!</h1>
-                            </div>
-                            <div style="padding: 0% 5% 0% 0%;">
-                                <p style="color: whitesmoke;">Shop <b style="font-weight: bold; font-size: 112%">2000 & above</b>
-                                    to enjoy <b
-                                            style="font-weight: bold; font-size: 112%">Free Delivery COUNTRYWIDE</b></p><br>
-                                <p style="color: whitesmoke;">Use the discount code <b
-                                            style="font-weight: bold; font-size: 112%">FREEDEL</b>
-                                    while checking out
-                                    to apply the discount.</p><br>
-                                <br>
-
-                                <h3 style="color: whitesmoke; text-align: center; font-weight: bold; font-size: larger;">
-                                    Limited time
-                                    offer!</h3>
-                                <hr style="margin: 5px 0px 5px 0px">
-                                <button style=" color: whitesmoke; font-weight: bold" type="button" id="Copy"
-                                        class="btn btn-link">
-                                    <i class="glyphicon glyphicon-copy"></i>
-                                    Copy Discount Code
-                                </button>
-
-                            </div>
-                        </div>
-
-                        <div class="col-lg-3"></div>
-                    </div>
-
-                </div> -->
+              
             </div>
         <?php }
         
@@ -481,27 +439,7 @@
 }
     </style>
     
-    <!--To copy the discount code-->
-<script>
-    function copyText(value) {
-        /* Get the text field */
-        var tempInput = document.createElement("input");
-        tempInput.value = value;
-        document.body.appendChild(tempInput);
-        tempInput.select();
-        // copyText.setSelectionRange(0, 99999); /*For mobile devices*/
-        document.execCommand("copy");
-        document.body.removeChild(tempInput);
-        /* Alert the copied text */
-        alert("Code" + " " + tempInput.value + " " + "copied");
-    }
-
-    document.querySelector('#Copy').onclick = function () {
-        copyText('FREEDEL');
-    }
-
-
-</script>
+ 
 
 
     <!--/grids-->

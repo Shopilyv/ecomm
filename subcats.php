@@ -12,7 +12,6 @@
     }
     if (isset($_GET['skyu']) && $_GET['skyu']) {
         $skyu = $_GET['skyu'];
-
         $cat_id = json_encode(array($skyu));
     } else {
         header("location:index.php");
@@ -22,10 +21,11 @@
      * the page defines the page titles and meta descriptions
      * for the various categories.
      */
+
     include 'sidenavs/cat_seo.php';
 
     ?>
-    <title><?php echo $title ?> | Queens Classy Collections Kenya</title>
+    <title><?php echo $title ?> | Cosmetics</title>
     <?php include 'sidenavs/jscss.php'; ?>
     <meta name="description" content="<?php echo getDesc($skyu, $con); ?>">
 </head>
@@ -43,6 +43,7 @@
 <!-- /banner_bottom_agile_info -->
 <div style="margin-top: 100px">
     <div class="container">
+   
         <div class="services-breadcrumb">
             <div class="agile_inner_breadcrumb">
 
@@ -116,8 +117,8 @@
                 <p><?php echo $p6; ?></p><br>
 
                 <div style="padding-top: 5%"></div>
-                <h3 style="text-align: center; font-weight: bold; font-size: larger;">Queens Classy Collections -
-                    Kenya’s No 1 Online Store</h3>
+                <h3 style="text-align: center; font-weight: bold; font-size: larger;">Cosmetics -
+                    No 1 Cosmetics</h3>
 
             </div>
             <!--/box-->

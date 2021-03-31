@@ -42,29 +42,19 @@
 
         $sql="SELECT * FROM categories WHERE active=1";
         $query=  mysqli_query($con, $sql);
-
-
-
+        
         while ($row1 = mysqli_fetch_array($query)) {
             $category=$row1['name'];
             $category_id=$row1['id'];
             
             
           $url="subcats?skyu=$category_id&cat=$category";
-            
-            
-                
-
         ?>
 
 <li class=" menu__item"> <a class="menu__link" href="<?php echo $url ?>" class="list-group-item list-group-item-action"><?php echo $category; ?></a></li>
 
-<?php  } ?>
-      
-                                    
-      </ul>
-                                
-                                
+<?php  } ?>                       
+      </ul>                  
     </div>
     </div>
   </nav>	
