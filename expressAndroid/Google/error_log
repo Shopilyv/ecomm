@@ -1,0 +1,105 @@
+[14-Sep-2020 12:33:31 UTC] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\ServiceException: {
+  "error": {
+    "code": 403,
+    "message": "Object 'shopi_express/receipts/JonSnow8x06.PNG.png' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T05:22:16.199783361-07:00",
+    "errors": [
+      {
+        "message": "Object 'shopi_express/receipts/JonSnow8x06.PNG.png' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T05:22:16.199783361-07:00",
+        "domain": "global",
+        "reason": "forbidden"
+      }
+    ]
+  }
+}
+ in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php:368
+Stack trace:
+#0 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php(207): Google\Cloud\Core\RequestWrapper->convertToGoogleException(Object(GuzzleHttp\Exception\ClientException))
+#1 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/Upload/Mult in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php on line 368
+[14-Sep-2020 13:21:19 UTC] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\ServiceException: {
+  "error": {
+    "code": 403,
+    "message": "Object 'shopi_express/receipts/JonSnow8x06.PNG.png' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T05:22:16.199783361-07:00",
+    "errors": [
+      {
+        "message": "Object 'shopi_express/receipts/JonSnow8x06.PNG.png' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T05:22:16.199783361-07:00",
+        "domain": "global",
+        "reason": "forbidden"
+      }
+    ]
+  }
+}
+ in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php:368
+Stack trace:
+#0 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php(207): Google\Cloud\Core\RequestWrapper->convertToGoogleException(Object(GuzzleHttp\Exception\ClientException))
+#1 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/Upload/Mult in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php on line 368
+[14-Sep-2020 13:21:57 UTC] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\ServiceException: {
+  "error": {
+    "code": 403,
+    "message": "Object 'shopi_express/receipts/JonSnow8x06.PNG.png' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T05:22:16.199783361-07:00",
+    "errors": [
+      {
+        "message": "Object 'shopi_express/receipts/JonSnow8x06.PNG.png' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T05:22:16.199783361-07:00",
+        "domain": "global",
+        "reason": "forbidden"
+      }
+    ]
+  }
+}
+ in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php:368
+Stack trace:
+#0 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php(207): Google\Cloud\Core\RequestWrapper->convertToGoogleException(Object(GuzzleHttp\Exception\ClientException))
+#1 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/Upload/Mult in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php on line 368
+[14-Sep-2020 13:48:05 UTC] PHP Notice:  Undefined index: action in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 13:55:50 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 13:55:50 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 13:55:50 UTC] PHP Warning:  include(rando.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 13:55:50 UTC] PHP Warning:  include(): Failed opening 'rando.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 13:55:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Gen' not found in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 6
+[14-Sep-2020 13:59:15 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 13:59:15 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 13:59:15 UTC] PHP Warning:  include(rando.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 13:59:15 UTC] PHP Warning:  include(): Failed opening 'rando.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 13:59:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Gen' not found in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 6
+[14-Sep-2020 14:21:52 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 14:21:52 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 14:21:52 UTC] PHP Warning:  include(rando.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 14:21:52 UTC] PHP Warning:  include(): Failed opening 'rando.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 14:21:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Gen' not found in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 6
+[14-Sep-2020 14:23:29 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 14:23:29 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 4
+[14-Sep-2020 14:23:29 UTC] PHP Warning:  include(rando.php): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 14:23:29 UTC] PHP Warning:  include(): Failed opening 'rando.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 5
+[14-Sep-2020 14:23:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Gen' not found in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 6
+[14-Sep-2020 14:25:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 15
+[14-Sep-2020 14:37:04 UTC] PHP Notice:  Undefined variable: response in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 36
+[14-Sep-2020 14:45:50 UTC] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\ServiceException: {
+  "error": {
+    "code": 403,
+    "message": "Object 'shopi_express/receipts/download (6).jpg' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T07:42:30.34603806-07:00",
+    "errors": [
+      {
+        "message": "Object 'shopi_express/receipts/download (6).jpg' is subject to bucket's retention policy and cannot be deleted, overwritten or archived until 2020-09-28T07:42:30.34603806-07:00",
+        "domain": "global",
+        "reason": "forbidden"
+      }
+    ]
+  }
+}
+ in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php:368
+Stack trace:
+#0 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php(207): Google\Cloud\Core\RequestWrapper->convertToGoogleException(Object(GuzzleHttp\Exception\ClientException))
+#1 /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/Upload/MultipartUpl in /home/b9yctaczy062/public_html/expressAndroid/Google/vendor/google/cloud-core/src/RequestWrapper.php on line 368
+[15-Sep-2020 07:06:14 UTC] PHP Warning:  imagejpeg(receipts/images (5).jpg): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 10
+[15-Sep-2020 10:15:25 UTC] PHP Warning:  imagejpeg(receipts/20200831_101422.jpg): failed to open stream: No such file or directory in /home/b9yctaczy062/public_html/expressAndroid/Google/requests.php on line 10

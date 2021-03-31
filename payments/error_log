@@ -1,0 +1,101 @@
+[29-Jan-2021 08:01:08 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[29-Jan-2021 08:01:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 09:00:43 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 09:00:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 09:01:13 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 09:01:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 12:04:21 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 12:04:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 18:19:26 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[30-Jan-2021 18:19:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Feb-2021 10:04:32 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Feb-2021 10:04:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Feb-2021 17:14:30 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Feb-2021 17:14:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Feb-2021 17:14:57 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Feb-2021 17:14:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[02-Feb-2021 17:09:20 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[02-Feb-2021 17:09:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[02-Feb-2021 21:24:49 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[04-Feb-2021 12:55:20 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[04-Feb-2021 12:55:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[05-Feb-2021 09:49:05 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[05-Feb-2021 09:49:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[05-Feb-2021 18:38:22 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[08-Feb-2021 17:16:19 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[11-Feb-2021 00:33:52 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[11-Feb-2021 10:29:17 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[11-Feb-2021 10:29:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[12-Feb-2021 11:20:52 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[12-Feb-2021 11:20:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 09:11:50 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 09:11:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 09:12:20 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 09:12:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 09:47:30 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 09:47:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 15:53:18 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[13-Feb-2021 15:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[15-Feb-2021 09:51:50 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[15-Feb-2021 09:51:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[16-Feb-2021 12:59:42 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[16-Feb-2021 12:59:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[18-Feb-2021 16:33:28 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[18-Feb-2021 17:16:38 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[18-Feb-2021 17:19:26 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[19-Feb-2021 12:56:02 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[23-Feb-2021 08:02:54 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[23-Feb-2021 08:02:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[24-Feb-2021 11:45:35 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[24-Feb-2021 11:45:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[25-Feb-2021 08:13:45 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[25-Feb-2021 08:13:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[26-Feb-2021 17:32:03 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[26-Feb-2021 17:32:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[27-Feb-2021 17:58:31 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[27-Feb-2021 15:53:12 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[27-Feb-2021 15:53:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Mar-2021 08:35:15 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Mar-2021 08:35:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Mar-2021 09:04:57 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[01-Mar-2021 09:04:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[02-Mar-2021 08:24:29 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[02-Mar-2021 08:24:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[04-Mar-2021 11:47:48 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[04-Mar-2021 11:47:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[04-Mar-2021 12:48:16 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[04-Mar-2021 12:48:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[04-Mar-2021 13:42:15 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[04-Mar-2021 13:42:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[07-Mar-2021 12:25:22 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[07-Mar-2021 12:25:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[08-Mar-2021 06:58:24 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[08-Mar-2021 06:58:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[08-Mar-2021 11:37:34 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[08-Mar-2021 11:37:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[09-Mar-2021 18:59:35 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[09-Mar-2021 18:59:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[10-Mar-2021 05:55:28 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[10-Mar-2021 05:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[11-Mar-2021 08:49:10 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[11-Mar-2021 22:42:37 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[12-Mar-2021 10:25:50 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[12-Mar-2021 10:25:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[15-Mar-2021 18:14:48 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[15-Mar-2021 18:14:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[17-Mar-2021 11:13:59 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[17-Mar-2021 11:13:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[19-Mar-2021 13:13:45 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[19-Mar-2021 13:13:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[20-Mar-2021 07:31:39 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[20-Mar-2021 07:31:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[22-Mar-2021 07:43:53 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[22-Mar-2021 07:43:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[22-Mar-2021 07:44:22 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[22-Mar-2021 07:44:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[24-Mar-2021 06:48:34 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[24-Mar-2021 06:48:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[24-Mar-2021 06:49:02 UTC] PHP Notice:  Undefined offset: 4 in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[24-Mar-2021 06:49:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/payments/callback_url.php on line 18
+[28-Mar-2021 17:57:37 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93
+[28-Mar-2021 23:59:38 Africa/Nairobi] PHP Notice:  Undefined index: CheckoutRequestID in /home/b9yctaczy062/public_html/payments/stk_initiate.php on line 93

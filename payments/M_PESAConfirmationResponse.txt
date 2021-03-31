@@ -1,0 +1,1231 @@
+{
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NE83S2HNWL",
+            "TransTime": "20190508195140",
+            "TransAmount": "79648.27",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "79648.53",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NE83S4TJ35",
+            "TransTime": "20190508210043",
+            "TransAmount": "10149.00",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "10149.53",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NE96SGAPG6",
+            "TransTime": "20190509124844",
+            "TransAmount": "65019.54",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "65020.07",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NE90SN5VM6",
+            "TransTime": "20190509165344",
+            "TransAmount": "95512.08",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "95512.15",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NE99SWOCUD",
+            "TransTime": "20190509210045",
+            "TransAmount": "60976.07",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "60976.22",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEA9TAUBCR",
+            "TransTime": "20190510140549",
+            "TransAmount": "92459.40",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "92459.62",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEA4TLFE78",
+            "TransTime": "20190510191116",
+            "TransAmount": "92182.55",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "92183.17",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEA1TPOQTX",
+            "TransTime": "20190510210044",
+            "TransAmount": "16615.52",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "16615.69",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEB6U6W1Y8",
+            "TransTime": "20190511152352",
+            "TransAmount": "75669.77",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "75670.46",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEB2UJBS9U",
+            "TransTime": "20190511210047",
+            "TransAmount": "50894.26",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "50894.72",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEC0VB3C5S",
+            "TransTime": "20190512210045",
+            "TransAmount": "35370.51",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "35371.23",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NED1VP394T",
+            "TransTime": "20190513143059",
+            "TransAmount": "84379.78",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "84380.01",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NED6VZ4J6Q",
+            "TransTime": "20190513193219",
+            "TransAmount": "83335.14",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "83335.15",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NED4W27M0Q",
+            "TransTime": "20190513210047",
+            "TransAmount": "1194.00",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "1194.15",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEE7WDQH77",
+            "TransTime": "20190514131325",
+            "TransAmount": "72362.10",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "72362.25",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEE7WR5ZQR",
+            "TransTime": "20190514201024",
+            "TransAmount": "98809.79",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "98810.04",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEE9WSS6N7",
+            "TransTime": "20190514210045",
+            "TransAmount": "8407.75",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "8407.79",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEF0X7W8YQ",
+            "TransTime": "20190515151556",
+            "TransAmount": "89798.27",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "89799.06",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEF8XK2TTA",
+            "TransTime": "20190515210047",
+            "TransAmount": "43783.08",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "43783.14",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEG5XY7J6B",
+            "TransTime": "20190516144114",
+            "TransAmount": "77357.54",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "77357.68",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEG5Y8INQ1",
+            "TransTime": "20190516210042",
+            "TransAmount": "58654.29",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "58654.97",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEH1YR05J1",
+            "TransTime": "20190517160411",
+            "TransAmount": "88798.57",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "88799.54",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEH6Z21Z80",
+            "TransTime": "20190517210037",
+            "TransAmount": "61189.20",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "61189.74",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEI1ZQRRC9",
+            "TransTime": "20190518184626",
+            "TransAmount": "96810.56",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "96811.30",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEI2ZVVU8C",
+            "TransTime": "20190518210040",
+            "TransAmount": "13581.75",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "13582.05",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEJ21L8PRU",
+            "TransTime": "20190519210042",
+            "TransAmount": "18849.75",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "18849.80",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEK41WBE6K",
+            "TransTime": "20190520124510",
+            "TransAmount": "42337.52",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "42338.32",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEK92CGPD1",
+            "TransTime": "20190520210037",
+            "TransAmount": "66663.53",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "66663.85",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEL22UDOWQ",
+            "TransTime": "20190521171654",
+            "TransAmount": "84923.35",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "84924.20",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEL432LN0K",
+            "TransTime": "20190521210038",
+            "TransAmount": "40941.78",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "40941.98",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEM73GA2GF",
+            "TransTime": "20190522143455",
+            "TransAmount": "49309.51",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "49310.49",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEM93T3FZT",
+            "TransTime": "20190522210035",
+            "TransAmount": "74193.21",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "74193.70",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEN646IALC",
+            "TransTime": "20190523141200",
+            "TransAmount": "87306.56",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "87307.26",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEN34EFHKD",
+            "TransTime": "20190523183844",
+            "TransAmount": "99699.03",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "99699.29",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEN14JML0F",
+            "TransTime": "20190523210036",
+            "TransAmount": "21889.01",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "21889.30",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEO44VW0RK",
+            "TransTime": "20190524130845",
+            "TransAmount": "90932.61",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "90932.91",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEO05BDYJS",
+            "TransTime": "20190524210041",
+            "TransAmount": "89288.31",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "89289.22",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEP55W6U3J",
+            "TransTime": "20190525172445",
+            "TransAmount": "96461.29",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "96461.51",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEP6647EPA",
+            "TransTime": "20190525210043",
+            "TransAmount": "40841.80",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "40842.31",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEQ36TB4T9",
+            "TransTime": "20190526210039",
+            "TransAmount": "36961.28",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "36961.59",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NER3751UTB",
+            "TransTime": "20190527132138",
+            "TransAmount": "69450.01",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "69450.60",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NER97KH9PB",
+            "TransTime": "20190527210036",
+            "TransAmount": "88109.26",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "88109.86",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NES77V72UP",
+            "TransTime": "20190528123623",
+            "TransAmount": "43533.25",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "43534.11",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NES1865Y03",
+            "TransTime": "20190528184859",
+            "TransAmount": "85367.79",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "85367.90",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NES08B2MH0",
+            "TransTime": "20190528210038",
+            "TransAmount": "11242.51",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "11243.41",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NET48OLULK",
+            "TransTime": "20190529142338",
+            "TransAmount": "79143.00",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "79143.41",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NET692D44Y",
+            "TransTime": "20190529210041",
+            "TransAmount": "69547.54",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "69547.95",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEU99GJJHJ",
+            "TransTime": "20190530143302",
+            "TransAmount": "70640.54",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "70641.49",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEU49TM99G",
+            "TransTime": "20190530210038",
+            "TransAmount": "91234.53",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "91235.02",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEV5A9P1KZ",
+            "TransTime": "20190531152933",
+            "TransAmount": "91867.63",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "91867.65",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NEV8AM1M76",
+            "TransTime": "20190531210041",
+            "TransAmount": "92973.83",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "92974.48",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF14AYRN32",
+            "TransTime": "20190601123456",
+            "TransAmount": "96356.30",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "96356.78",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF14B9I6A0",
+            "TransTime": "20190601180809",
+            "TransAmount": "94561.82",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "94562.60",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF17BG7H5L",
+            "TransTime": "20190601210041",
+            "TransAmount": "31985.80",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "31986.40",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF30CMYE3K",
+            "TransTime": "20190603152519",
+            "TransAmount": "95367.06",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "95367.24",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF34CZ4RQU",
+            "TransTime": "20190603210038",
+            "TransAmount": "56991.88",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "56992.12",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF46DGBV50",
+            "TransTime": "20190604160256",
+            "TransAmount": "79057.08",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "79057.20",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF40DRKDUW",
+            "TransTime": "20190604210039",
+            "TransAmount": "22039.76",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "22039.96",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF53EA93NT",
+            "TransTime": "20190605165056",
+            "TransAmount": "87656.31",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "87657.27",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF56EJI0DW",
+            "TransTime": "20190605210041",
+            "TransAmount": "34324.53",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "34324.80",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF64F4VPNQ",
+            "TransTime": "20190606181312",
+            "TransAmount": "82932.79",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "82933.59",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF68FBLPZQ",
+            "TransTime": "20190606210038",
+            "TransAmount": "25771.50",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "25772.09",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF74FTVX2E",
+            "TransTime": "20190607161531",
+            "TransAmount": "94921.52",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "94921.61",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF70G51LCU",
+            "TransTime": "20190607210042",
+            "TransAmount": "80100.29",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "80100.90",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF86GIYYZ4",
+            "TransTime": "20190608133132",
+            "TransAmount": "56417.26",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "56418.16",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF87GZ4L0V",
+            "TransTime": "20190608210042",
+            "TransAmount": "81787.53",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "81787.69",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NF93HPFIZ3",
+            "TransTime": "20190609202531",
+            "TransAmount": "38800.04",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "38800.73",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFA2ICJCCO",
+            "TransTime": "20190610181046",
+            "TransAmount": "98848.31",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "98849.04",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFA8IJET3A",
+            "TransTime": "20190610210039",
+            "TransAmount": "40890.54",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "40890.58",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFB3J0HIIB",
+            "TransTime": "20190611155411",
+            "TransAmount": "80792.02",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "80792.60",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFB6JBUKZ6",
+            "TransTime": "20190611210042",
+            "TransAmount": "50941.53",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "50942.13",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFC5JVIZXJ",
+            "TransTime": "20190612173047",
+            "TransAmount": "91632.06",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "91632.19",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFC4K3IMTW",
+            "TransTime": "20190612210042",
+            "TransAmount": "25323.50",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "25323.69",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFD3KATBOJ",
+            "TransTime": "20190613101236",
+            "TransAmount": "2636.75",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "2637.44",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFD0KL5VB2",
+            "TransTime": "20190613163608",
+            "TransAmount": "95021.01",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "95021.45",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFD7KUUZ3J",
+            "TransTime": "20190613210041",
+            "TransAmount": "75740.18",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "75740.63",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFE2L8JNM4",
+            "TransTime": "20190614135046",
+            "TransAmount": "66365.02",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "66365.65",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFE4LKXOB0",
+            "TransTime": "20190614193626",
+            "TransAmount": "99749.75",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "99750.40",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFE9LOAXBF",
+            "TransTime": "20190614210039",
+            "TransAmount": "8606.75",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "8607.15",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFF7MARY9P",
+            "TransTime": "20190615181318",
+            "TransAmount": "98299.07",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "98299.22",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFF8MHDMVI",
+            "TransTime": "20190615210041",
+            "TransAmount": "33433.00",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "33433.22",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        {
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "NFG3N5LGQR",
+            "TransTime": "20190616195431",
+            "TransAmount": "49497.29",
+            "BusinessShortCode": "497920",
+            "BillRefNumber": "",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "49497.51",
+            "ThirdPartyTransID": "",
+            "MSISDN": "",
+            "FirstName": "QUEENS   CLASSY   COLLECTIONS",
+            "MiddleName": "",
+            "LastName": ""
+        }
+        

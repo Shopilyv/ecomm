@@ -1,0 +1,617 @@
+[31-Jan-2021 15:01:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[31-Jan-2021 15:01:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[31-Jan-2021 15:01:54 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:01:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:01:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[31-Jan-2021 15:01:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[31-Jan-2021 15:01:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[31-Jan-2021 15:02:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[31-Jan-2021 15:02:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[31-Jan-2021 15:02:02 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:02:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:02:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[31-Jan-2021 15:02:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[31-Jan-2021 15:02:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[31-Jan-2021 15:02:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[31-Jan-2021 15:02:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[31-Jan-2021 15:02:30 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:02:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:02:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[31-Jan-2021 15:02:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[31-Jan-2021 15:02:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[31-Jan-2021 15:02:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[31-Jan-2021 15:02:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[31-Jan-2021 15:02:41 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:02:41 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[31-Jan-2021 15:02:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[31-Jan-2021 15:02:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[31-Jan-2021 15:02:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[31-Jan-2021 18:30:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 07:34:01 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 10:55:29 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 12:56:39 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 13:04:38 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 13:29:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 14:00:22 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 14:27:56 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 15:25:40 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 20:47:37 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[01-Feb-2021 20:57:48 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 07:17:57 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 10:32:42 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 12:30:24 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 13:52:23 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 14:42:04 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 11:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[02-Feb-2021 11:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[02-Feb-2021 11:42:20 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[02-Feb-2021 11:42:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[02-Feb-2021 11:42:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[02-Feb-2021 11:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[02-Feb-2021 11:42:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[02-Feb-2021 20:08:43 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 20:10:04 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 22:12:53 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 19:12:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[02-Feb-2021 19:12:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[02-Feb-2021 19:12:58 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[02-Feb-2021 19:12:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[02-Feb-2021 19:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[02-Feb-2021 19:12:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[02-Feb-2021 19:12:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[02-Feb-2021 22:24:33 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[02-Feb-2021 22:58:16 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 00:19:58 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 10:15:39 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 11:08:12 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 11:08:54 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 11:19:45 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 08:20:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 08:20:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 08:20:02 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 08:20:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 08:20:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 08:20:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 08:20:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 08:20:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 08:20:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 08:20:10 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 08:20:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 08:20:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 08:20:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 08:20:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 11:32:27 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 12:12:19 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 09:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 09:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 09:12:28 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 09:12:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 09:12:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 09:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 09:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 09:13:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 09:13:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 09:13:33 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 09:13:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 09:13:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 09:13:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 09:13:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:53:09 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 18:54:05 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 19:54:03 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 16:54:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 16:54:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 16:54:21 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 16:54:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 16:54:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 16:54:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 16:54:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 16:54:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 16:54:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 16:54:46 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 16:54:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 16:54:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 16:54:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 16:54:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:05:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:05:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:05:21 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:05:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:05:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:05:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:05:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 20:27:52 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 17:28:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:28:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:28:35 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:28:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:28:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:28:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:28:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:28:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:28:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:28:47 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:28:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:28:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:28:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:28:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:28:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:28:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:28:56 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:28:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:28:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:28:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:28:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 20:31:56 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 17:32:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:32:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:32:07 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:32:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:32:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:32:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:32:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:32:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:32:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:32:47 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:32:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:32:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:32:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:32:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:33:02 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:33:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:33:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:33:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:33:06 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:33:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:33:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:33:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:33:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:33:11 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:33:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:33:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:33:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:33:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:33:15 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:33:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:33:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:33:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:33:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:33:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:33:36 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:33:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:33:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:33:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:34:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:34:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:34:01 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:34:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:34:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:34:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:34:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 20:42:03 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[03-Feb-2021 17:42:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:42:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:42:43 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:42:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:42:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:42:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:42:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:42:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:42:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:42:47 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:42:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:42:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:42:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:42:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:43:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:43:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:43:00 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:00 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:43:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:43:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:43:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:43:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:43:17 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:43:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:43:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:43:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:43:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:43:29 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:43:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:43:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:43:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:43:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:43:37 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:43:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:43:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:43:40 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 17:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[03-Feb-2021 17:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[03-Feb-2021 17:43:56 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[03-Feb-2021 17:43:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[03-Feb-2021 17:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[03-Feb-2021 17:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[03-Feb-2021 22:02:22 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 11:19:09 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 12:36:06 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 15:55:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 18:30:56 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 19:49:55 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 20:18:17 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 21:55:30 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[04-Feb-2021 18:55:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 18:55:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 18:55:42 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:55:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:55:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 18:55:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 18:55:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[04-Feb-2021 18:56:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 18:56:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 18:56:18 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 18:56:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 18:56:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[04-Feb-2021 18:56:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 18:56:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 18:56:19 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 18:56:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 18:56:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[04-Feb-2021 18:56:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 18:56:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 18:56:20 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 18:56:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 18:56:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[04-Feb-2021 18:56:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 18:56:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 18:56:25 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 18:56:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 18:56:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[04-Feb-2021 18:56:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 18:56:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 18:56:27 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 18:56:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 18:56:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 18:56:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 19:00:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 19:00:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 19:00:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Feb-2021 19:00:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Feb-2021 19:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[05-Feb-2021 09:12:44 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 10:39:04 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 10:51:05 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 11:48:58 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 12:49:11 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 13:03:09 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 13:35:05 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 16:27:12 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 18:27:43 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 18:41:32 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 15:41:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[05-Feb-2021 15:41:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[05-Feb-2021 15:41:49 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[05-Feb-2021 15:41:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[05-Feb-2021 15:41:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[05-Feb-2021 15:41:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[05-Feb-2021 15:41:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[05-Feb-2021 15:42:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[05-Feb-2021 15:42:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[05-Feb-2021 15:42:10 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[05-Feb-2021 15:42:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[05-Feb-2021 15:42:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[05-Feb-2021 15:42:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[05-Feb-2021 15:42:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[05-Feb-2021 19:02:04 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 20:22:03 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[05-Feb-2021 23:53:42 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[06-Feb-2021 10:23:46 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[06-Feb-2021 07:24:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[06-Feb-2021 07:24:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[06-Feb-2021 07:24:14 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 07:24:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 07:24:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[06-Feb-2021 07:24:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[06-Feb-2021 07:24:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[06-Feb-2021 07:24:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[06-Feb-2021 07:24:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[06-Feb-2021 07:24:18 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 07:24:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 07:24:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[06-Feb-2021 07:24:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[06-Feb-2021 07:24:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[06-Feb-2021 07:24:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[06-Feb-2021 07:24:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[06-Feb-2021 07:24:23 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 07:24:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 07:24:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[06-Feb-2021 07:24:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[06-Feb-2021 07:24:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[06-Feb-2021 13:19:26 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[06-Feb-2021 14:47:07 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[06-Feb-2021 15:02:44 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 12:14:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 12:14:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 12:14:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 12:14:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 12:14:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[06-Feb-2021 12:14:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[06-Feb-2021 12:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58
+[06-Feb-2021 14:50:03 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:03 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:05 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:05 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:05 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:05 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:09 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:09 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:09 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:09 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:09 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:50:09 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:55:10 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:55:10 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:56:37 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:56:37 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:57:54 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:57:54 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:57:55 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:57:55 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:57:55 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:57:55 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:59:44 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 14:59:44 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:48 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:48 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:49 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:49 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:49 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:49 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:55 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:04:55 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:16:11 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:16:11 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:20:14 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 15:20:14 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[06-Feb-2021 18:23:50 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[06-Feb-2021 20:32:57 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[07-Feb-2021 22:04:54 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[08-Feb-2021 07:35:57 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[08-Feb-2021 09:54:31 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[08-Feb-2021 10:05:52 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[08-Feb-2021 12:37:16 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[08-Feb-2021 13:28:33 UTC] PHP Notice:  Undefined variable: route in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[08-Feb-2021 13:28:33 UTC] PHP Notice:  Trying to get property 'price' of non-object in /home/b9yctaczy062/public_html/includes/countryparcel.details.php on line 37
+[08-Feb-2021 17:26:53 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[08-Feb-2021 18:26:27 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[09-Feb-2021 08:32:29 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[09-Feb-2021 10:26:18 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[09-Feb-2021 10:55:37 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 132
+[09-Feb-2021 11:06:15 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[09-Feb-2021 12:18:30 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[09-Feb-2021 14:08:10 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 75
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 76
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 79
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 83
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 75
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 76
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 79
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 83
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 75
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 76
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 79
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 83
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 75
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 76
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 79
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 83
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 75
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 76
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 79
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 83
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 75
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 76
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 79
+[09-Feb-2021 14:39:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 83
+[09-Feb-2021 14:39:56 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 75
+[09-Feb-2021 14:39:56 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 76
+[09-Feb-2021 14:39:56 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 79
+[09-Feb-2021 14:39:56 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/place24.php on line 83
+[09-Feb-2021 17:05:04 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[09-Feb-2021 20:58:50 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[09-Feb-2021 21:55:16 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[09-Feb-2021 22:35:40 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[10-Feb-2021 10:05:10 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[10-Feb-2021 11:36:15 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[10-Feb-2021 12:17:40 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[10-Feb-2021 12:54:23 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[10-Feb-2021 16:46:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[10-Feb-2021 19:17:57 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[10-Feb-2021 21:15:35 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 06:54:16 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 08:20:13 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 09:00:12 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 09:35:54 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 11:33:34 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 11:56:51 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 12:58:46 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 13:29:19 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 13:58:24 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 15:39:45 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 15:50:32 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 15:51:43 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 16:05:30 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 18:50:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 21:39:02 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 22:38:07 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[11-Feb-2021 23:00:36 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[12-Feb-2021 09:11:44 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[12-Feb-2021 10:41:42 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[12-Feb-2021 13:07:12 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[12-Feb-2021 14:20:57 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[12-Feb-2021 18:28:59 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 09:48:06 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 10:18:32 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 10:29:48 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 10:49:41 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 11:06:06 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 11:43:33 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 12:11:43 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 12:22:33 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 12:46:53 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 12:59:22 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 13:31:10 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 14:11:55 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 14:50:13 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 14:59:35 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 17:19:26 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 17:26:16 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 18:05:40 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 18:53:18 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 20:32:12 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[13-Feb-2021 22:56:19 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[14-Feb-2021 03:57:37 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[14-Feb-2021 12:03:09 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[14-Feb-2021 13:48:10 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[14-Feb-2021 14:27:12 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[14-Feb-2021 17:39:34 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[14-Feb-2021 21:48:29 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[15-Feb-2021 10:24:42 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[15-Feb-2021 12:52:07 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[15-Feb-2021 14:45:07 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 127
+[15-Feb-2021 17:43:16 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[16-Feb-2021 13:21:44 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[17-Feb-2021 12:00:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[17-Feb-2021 14:41:23 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[17-Feb-2021 16:34:39 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[17-Feb-2021 17:45:10 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[17-Feb-2021 23:25:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[18-Feb-2021 08:00:47 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[18-Feb-2021 10:19:45 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[18-Feb-2021 14:51:19 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[18-Feb-2021 17:24:05 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[18-Feb-2021 18:54:45 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 02:38:59 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 07:44:40 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 09:19:03 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 12:58:10 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 13:57:25 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 14:12:50 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 15:49:11 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[19-Feb-2021 15:59:28 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[20-Feb-2021 09:16:33 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[20-Feb-2021 09:40:38 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[20-Feb-2021 16:16:02 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[20-Feb-2021 18:19:08 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[20-Feb-2021 23:29:56 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[21-Feb-2021 12:04:44 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[21-Feb-2021 14:10:52 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[21-Feb-2021 15:00:39 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[22-Feb-2021 10:15:58 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[22-Feb-2021 10:50:13 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[22-Feb-2021 11:39:26 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[22-Feb-2021 13:07:38 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[22-Feb-2021 15:44:34 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[22-Feb-2021 16:02:50 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[22-Feb-2021 19:07:20 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 12:08:07 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 12:08:07 Africa/Nairobi] PHP Notice:  Undefined variable: refername in /home/b9yctaczy062/public_html/includes/place24.php on line 155
+[23-Feb-2021 12:08:07 Africa/Nairobi] PHP Notice:  Undefined variable: referrer in /home/b9yctaczy062/public_html/includes/place24.php on line 156
+[23-Feb-2021 12:21:23 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 13:25:45 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 14:26:18 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 15:30:08 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 17:40:11 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 20:06:02 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[23-Feb-2021 21:06:54 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 09:24:55 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 09:24:55 Africa/Nairobi] PHP Notice:  Undefined variable: refername in /home/b9yctaczy062/public_html/includes/place24.php on line 155
+[24-Feb-2021 09:24:55 Africa/Nairobi] PHP Notice:  Undefined variable: referrer in /home/b9yctaczy062/public_html/includes/place24.php on line 156
+[24-Feb-2021 10:12:28 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 10:44:21 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 11:00:55 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 11:06:56 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 12:22:08 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 12:39:42 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 13:22:47 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 14:45:37 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[24-Feb-2021 14:56:36 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/place24.php on line 134
+[04-Mar-2021 13:31:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 44
+[04-Mar-2021 13:31:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 45
+[04-Mar-2021 13:31:32 UTC] PHP Notice:  Undefined variable: location in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Mar-2021 13:31:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/b9yctaczy062/public_html/includes/checkode.php on line 54
+[04-Mar-2021 13:31:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/includes/checkode.php on line 55
+[04-Mar-2021 13:31:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 57
+[04-Mar-2021 13:31:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/b9yctaczy062/public_html/includes/checkode.php on line 58

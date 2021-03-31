@@ -1,0 +1,1 @@
+SELECT * FROM index_manager WHERE discount1!='discount1' order by uploads_id DESC LIMIT 1;

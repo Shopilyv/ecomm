@@ -1,0 +1,36 @@
+[01-Oct-2020 21:00:41 UTC] PHP Notice:  Undefined index: search in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 6
+[16-Oct-2020 18:13:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[23-Oct-2020 21:05:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[23-Oct-2020 21:05:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[03-Nov-2020 18:14:34 UTC] PHP Notice:  Undefined index: search in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 20
+[05-Nov-2020 14:46:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[11-Nov-2020 10:09:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[29-Nov-2020 15:41:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[01-Dec-2020 05:13:01 UTC] PHP Notice:  Undefined index: search in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 6
+[02-Dec-2020 05:45:52 UTC] PHP Notice:  Undefined index: search in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 6
+[11-Dec-2020 16:31:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[18-Dec-2020 14:35:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[23-Dec-2020 11:12:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[23-Dec-2020 11:12:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[10-Jan-2021 19:09:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/popsug.php on line 11
+[19-Jan-2021 12:20:24 UTC] PHP Notice:  Undefined index: search in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 20
+[30-Jan-2021 13:37:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[19-Feb-2021 19:55:59 UTC] PHP Notice:  Undefined index: search in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 20
+[03-Mar-2021 14:37:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
+[17-Mar-2021 12:03:21 UTC] PHP Notice:  Undefined index: search in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 20
+[17-Mar-2021 17:02:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/b9yctaczy062/public_html/postFiles/searchsuggest.php on line 26
