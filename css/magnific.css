@@ -365,7 +365,7 @@ img.mfp-img {
     color: #F3F3F3;
     word-wrap: break-word;
     padding-right: 36px;
-    background: rgba(192, 29, 129, 1);
+    background: rgb(128, 0, 128);
 }
 
 .mfp-image-holder .mfp-content {

@@ -92,13 +92,13 @@
 
 .dropdown.open .dropdown-menu {
     opacity: 1;
-    border: 2px solid rgba(192, 29, 129, 1);
+    border: 2px solid rgb(128, 0, 128);
     padding: 0;
 }
 
 .cart_item {
     opacity: 1;
-    border: 2px solid rgba(192, 29, 129, 1);
+    border: 2px solid rgb(128, 0, 128);
     border-radius: 5px;
     padding: 0;
 }
@@ -126,7 +126,7 @@
     top: 0%;
     /* Stay at the top */
     left: 0;
-    background-color: rgba(192, 29, 129, 1);
+    background-color: rgb(128, 0, 128);
     /* pink*/
     overflow-x: hidden;
     /* Disable horizontal scroll */
@@ -139,7 +139,7 @@
 
 .sidenav ul li {
     background-color: pink;
-    border: 5px solid rgba(192, 29, 129, 1);
+    border: 5px solid rgb(128, 0, 128);
     border-radius: 9px;
 }
 

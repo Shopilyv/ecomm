@@ -32,7 +32,7 @@ body {
     top: 0%;
     /* Stay at the top */
     left: 0;
-    background-color: rgba(192, 29, 129, 1);
+    background-color: rgb(128, 0, 128);
     /* pink*/
     overflow-x: hidden;
     /* Disable horizontal scroll */
@@ -45,7 +45,7 @@ body {
 
 .sidenav ul li {
     background-color: pink;
-    border: 5px solid rgba(192, 29, 129, 1);
+    border: 5px solid rgb(128, 0, 128);
     border-radius: 9px;
 }
 
@@ -276,14 +276,14 @@ ol.progtrckr li.progtrckr-todo:before {
 }
 
 #countdown {
-    border: 1px solid rgba(192, 29, 129, 1);
+    border: 1px solid rgb(128, 0, 128);
     border-radius: 3px;
     background: pink;
     font-size: 1.1em;
 }
 
 .demand {
-    border: 1px solid rgba(192, 29, 129, 1);
+    border: 1px solid rgb(128, 0, 128);
     border-radius: 3px;
     background: pink;
     font-size: 1.2em;
@@ -311,7 +311,7 @@ ol.progtrckr li.progtrckr-todo:before {
 
 .cartitems:hover,
 .cartitems:active {
-    border: 1px solid rgba(192, 29, 129, 1);
+    border: 1px solid rgb(128, 0, 128);
 }
 
 .btnss {
@@ -609,7 +609,7 @@ hr {
 }
 
 .lipanow:focus {
-    border: 2px solid rgba(192, 29, 129, 1);
+    border: 2px solid rgb(128, 0, 128);
 }
 
 #lmark {
@@ -663,12 +663,12 @@ hr {
 }
 
 .save_btn {
-    background: rgba(192, 29, 129, 1);
+    background: rgb(128, 0, 128);
     text-transform: uppercase;
     text-align: center;
     font-size: 1.5em;
     margin-top: 2px;
-    border: 2px solid rgba(192, 29, 129, 1);
+    border: 2px solid rgb(128, 0, 128);
     width: 90%;
     border-radius: 3px;
     color: #fff;
@@ -681,7 +681,7 @@ hr {
 
 .modal-lg,
 .modal-header {
-    background: rgba(192, 29, 129, 1);
+    background: rgb(128, 0, 128);
 }
 
 #collapse1 {

@@ -43,7 +43,9 @@
 <!-- /banner_bottom_agile_info -->
 <div style="margin-top: 100px">
     <div class="container">
-   
+    <?php
+    include 'sidenavs/toppest.php';
+    ?>
         <div class="services-breadcrumb">
             <div class="agile_inner_breadcrumb">
 
@@ -70,6 +72,7 @@
 </div>
 
 <!-- banner-bootom-w3-agileits -->
+
 <div class="banner-bootom-w3-agileits">
     <div class="container">
         <!-- mens -->
@@ -90,13 +93,13 @@
     <div class="row is-flex">
 
         <!-- About Image -->
-        <div class="col-lg-4" style="background-image: url('<?php echo $image ;?>');">
+        <!-- <div class="col-lg-4" style="background-image: url('<?php echo $image ;?>');">
             <div class="box">
                 <div class="page-header" style="padding-top: 60%; padding-bottom: 60%; padding-left: 10%">
                     <h1 style="color: floralwhite; font-weight: bold; font-size: 350%;"><?php echo $h1; ?></h1>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--/Column-->
 
         <!-- About Text -->

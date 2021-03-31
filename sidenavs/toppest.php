@@ -1,23 +1,17 @@
 <div class="container searchtop"> 
-
 <div class="row">
-<div class="col-md-12">
-
-
-                
+<div class="col-md-12">                
 <div class="searchdiv">
-
 <div class="push">
         <input name="search" type="search" placeholder="Search item..." class="form-control search qccsearch">
         <span><button type="submit" class="btn btn-success qccpost"><i class="fa fa-search"></i></button></span>
-        <div class="searcherror"></div>
-  
+        <div class="searcherror"></div>  
 </div>
                                          
      </div>
 <div class="dropoptions" >
   <nav class="navbar navbar-default" style="margin-left: 15%">
-    <div class="container-fluid" style="background-color: rgba(192, 29, 129, 1)">
+    <div class="container-fluid" style="background-color: rgb(128,0,128)">
     <!-- Brand and toggle get grouped for better mobile display -->
     
                           <div class="navbar-header">
@@ -42,7 +36,7 @@
 
         $sql="SELECT * FROM categories WHERE active=1";
         $query=  mysqli_query($con, $sql);
-        
+
         while ($row1 = mysqli_fetch_array($query)) {
             $category=$row1['name'];
             $category_id=$row1['id'];

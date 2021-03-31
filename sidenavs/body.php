@@ -1,196 +1,11 @@
 <script>
-
     $(document).on("click", '#closedd', function () {
         $(this).parent().parent().parent().css("display", "none");
     });
-
-
-    /*function CountdownTracker(label, value){
-
-      var el = document.createElement('span');
-
-      el.className = 'flip-clock__piece';
-      el.innerHTML = '<b class="flip-clock__card card"><b class="card__top"></b><b class="card__bottom"></b><b class="card__back"><b class="card__bottom"></b></b></b>' +
-        '<span class="flip-clock__slot">' + label + '</span>';
-
-      this.el = el;
-
-      var top = el.querySelector('.card__top'),
-          bottom = el.querySelector('.card__bottom'),
-          back = el.querySelector('.card__back'),
-          backBottom = el.querySelector('.card__back .card__bottom');
-
-      this.update = function(val){
-        val = ( '0' + val ).slice(-2);
-        if ( val !== this.currentValue ) {
-
-          if ( this.currentValue >= 0 ) {
-            back.setAttribute('data-value', this.currentValue);
-            bottom.setAttribute('data-value', this.currentValue);
-          }
-          this.currentValue = val;
-          top.innerText = this.currentValue;
-          backBottom.setAttribute('data-value', this.currentValue);
-
-          this.el.classList.remove('flip');
-          void this.el.offsetWidth;
-          this.el.classList.add('flip');
-        }
-      }
-
-      this.update(value);
-    }
-
-    // Calculation adapted from https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
-
-    function getTimeRemaining(endtime) {
-      var t = Date.parse(endtime) - Date.parse(new Date());
-      return {
-        'Total': t,
-        'Days': Math.floor(t / (1000 * 60 * 60 * 24)),
-        'Hours': Math.floor((t / (1000 * 60 * 60)) % 24),
-        'Minutes': Math.floor((t / 1000 / 60) % 60),
-        'Seconds': Math.floor((t / 1000) % 60)
-      };
-    }
-
-    function getTime() {
-      var t = new Date();
-      return {
-        'Total': t,
-        'Hours': t.getHours() % 12,
-        'Minutes': t.getMinutes(),
-        'Seconds': t.getSeconds()
-      };
-    }
-
-    function Clock(countdown,callback) {
-
-      countdown = countdown ? new Date(Date.parse(countdown)) : false;
-      callback = callback || function(){};
-
-      var updateFn = countdown ? getTimeRemaining : getTime;
-
-      this.el = document.createElement('div');
-      this.el.className = 'flip-clock';
-
-      var trackers = {},
-          t = updateFn(countdown),
-          key, timeinterval;
-
-      for ( key in t ){
-        if ( key === 'Total' ) { continue; }
-        trackers[key] = new CountdownTracker(key, t[key]);
-        this.el.appendChild(trackers[key].el);
-      }
-
-      var i = 0;
-      function updateClock() {
-        timeinterval = requestAnimationFrame(updateClock);
-
-        // throttle so it's not constantly updating the time.
-        if ( i++ % 10 ) { return; }
-
-        var t = updateFn(countdown);
-        if ( t.Total < 0 ) {
-          cancelAnimationFrame(timeinterval);
-          for ( key in trackers ){
-            trackers[key].update( 0 );
-          }
-          callback();
-          return;
-        }
-
-        for ( key in trackers ){
-          trackers[key].update( t[key] );
-        }
-      }
-
-      setTimeout(updateClock,500);
-    }
-
-    var deadline = new Date(Date.parse(new Date()) + 12 * 24 * 60 * 60 * 1000);
-    var c = new Clock(deadline, function(){ alert('countdown complete') });
-    document.body.appendChild(c.el);
-
-
-    */
 </script>
+
 <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet'>
-<div class="afterstuff">
-    <!-- <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        
-        <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1" class=""></li>
-            <li data-target="#myCarousel" data-slide-to="2" class=""></li>
-            <li data-target="#myCarousel" data-slide-to="3" class=""></li>
-            <li data-target="#myCarousel" data-slide-to="4" class=""></li>
-        </ol>
-        <div class="carousel-inner" role="listbox">
-
-            <div class="item active">
-                <div class="container">
-                    <div class="carousel-caption">
-                        <h3> Identi<span>fy</span></h3>
-                        <p>What You Want </p>
-                    </div>
-                </div>
-            </div>
-            <div class="item item2">
-                <div class="container">
-                    <div class="carousel-caption">
-                        <h3> Clic<span>k</span></h3>
-                        <p>Buy Now Button </p>
-                    </div>
-                </div>
-            </div>
-            <div class="item item3">
-                <div class="container">
-                    <div class="carousel-caption">
-                        <h3>Sele<span>ct</span></h3>
-                        <p>Your Size</p>
-                    </div>
-                </div>
-            </div>
-            <div class="item item4">
-                <div class="container">
-                    <div class="carousel-caption">
-                        <h3>Enter<span>Contacts</span></h3>
-                        <p>Proceed to Order</p>
-                    </div>
-                </div>
-            </div>
-            <div class="item item5">
-                <div class="container">
-                    <div class="carousel-caption">
-                        <h3>Instant <span>Checkout</span></h3>
-                        <p>Wait for your order</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-      
-    </div> -->
-
-
-
-    <!-- //banner -->
-    <!-- <div><h3 style="text-align:center">Free Delivery Offer Expires In:</h3></div> -->
-
-
-    <!-- schedule-bottom -->
-
-    <!-- //schedule-bottom -->
-    <!-- banner-bootom-w3-agileits -->
+<div class="afterstuff">  
     <style>
         #demo {
             font-size: 1.7em;
@@ -205,41 +20,28 @@
             }
 
             h2, .h2 {
-
                 font-size: 1em;
-
             }
 
             .col-md-7 {
-
                 width: 58.33333333%;
-
-
             }
 
             .col-md-5, .col-md-7 {
                 float: left;
-
-
                 padding-left: 0;
                 padding-right: 0;
             }
-
             #demo {
                 font-size: 1em;
             }
-
             .grid figure h3 span {
-
                 font-weight: 800;
                 color: #000000 !important;
                 font-size: 12px;
                 letter-spacing: 2px;
-
             }
-
         }
-
     </style>
     <?php
     $date = date('Y-m-d');
@@ -267,8 +69,6 @@
         if ($now >= $start && $now <= $end) {
             $n = 1;
         }
-
-
         $images = mysqli_fetch_array($query1);
         $online = $inv . $images['wt2'];
     }
@@ -284,9 +84,7 @@
                 }
 
             </style>
-            <div class="container" style="margin-top: 100px">
-
-              
+            <div class="container" style="margin-top: 100px">             
             </div>
         <?php }
         
